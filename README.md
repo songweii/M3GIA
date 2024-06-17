@@ -11,7 +11,7 @@ To evaluate a model on our M3GIA, there are the following steps:
 python cogvlm2_inference.py --question-file /mnt/data/sw/Marco_VL_Bench/data/huggingface_noanswer/en_final.parquet --answers-file /mnt/data/sw/M3GIA_Bench/data/answers/cogvlm2-19B/english_v1.jsonl --language english
 ```
 The arguments are as follows:
-  - `question-file`: The file you download from [**🤗 Dataset**](https://huggingface.co/datasets/Songweii/M3GIA/).
+  - `question-file`: You can download the file from [**🤗 Dataset**](https://huggingface.co/datasets/Songweii/M3GIA/).
   - `answers-file`: The output file of the model predicitons.
   - `language`: The language chosen from english, chinese, french, spanish, portuguese and korean.
 - **Evaluation**: 
