@@ -34,3 +34,8 @@ After inference all the questons in 6 languages, you can run the following comma
 ```bash
 python main_parse_and_eval.py --model_name_list cogvlm2-19B --language_list chinese english spanish french portuguese korean
 ```
+
+If you want to use LLM for answer extraction:
+```bash
+python main_parse_and_eval.py --model_name_list cogvlm2-19B --language_list chinese english spanish french portuguese korean --openai-api-key *** --openai-api-base ***
+```
