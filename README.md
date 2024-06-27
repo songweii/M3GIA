@@ -17,9 +17,20 @@ python inference_only.py --question-file ./data/huggingface/en_final.parquet --a
 The arguments are as follows:
   - `question-file`: The file you download from [**🤗 Dataset**](https://huggingface.co/datasets/Songweii/M3GIA/).
   - `answers-file`: The output file of the model predictions.
+  - `model-name`: The name of the model you evaluate.
+  - `model-path`: The path to the model's weight if you want to evaluate an open source model.
   - `language`: The language chosen from english, chinese, french, spanish, portuguese and korean.
+
+If you want to evaluate a closed-source model:
+```Shell
+python inference_only.py --question-file ./data/huggingface/en_final.parquet --answers-file ./data/answers --language english --model-name gpt-4v --api-key *** --api-base ***
+```
+The arguments are as follows:
+  - `api-key`: The API key of the closed-source model evaluated.
+  - `api-base`: The API base of the closed-source model evaluated.
+
 3. **Evaluation**: 
 After inference all the questons in 6 languages, you can run the following command to get the final results (Please check the folder: `data/eval_result`):
 ```bash
-python main_eval_only.py --model_name_list cogvlm2-19B --language_list chinese english spanish french portuguese korean
+python main_parse_and_eval.py --model_name_list cogvlm2-19B --language_list chinese english spanish french portuguese korean
 ```
