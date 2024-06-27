@@ -1,0 +1,1502 @@
+[
+ {
+  "question_id": "1",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "2",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "3",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "4",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "5",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "6",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "7",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "8",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "9",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "10",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "11",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "12",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "13",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "14",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "15",
+  "question_type": "Oral Vocabulary",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "16",
+  "question_type": "General Information",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "17",
+  "question_type": "General Information",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "18",
+  "question_type": "General Information",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "19",
+  "question_type": "General Information",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "20",
+  "question_type": "General Information",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "21",
+  "question_type": "General Information",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "22",
+  "question_type": "General Information",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "23",
+  "question_type": "General Information",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "24",
+  "question_type": "General Information",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "25",
+  "question_type": "General Information",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "26",
+  "question_type": "General Information",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "27",
+  "question_type": "General Information",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "28",
+  "question_type": "General Information",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "29",
+  "question_type": "General Information",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "30",
+  "question_type": "General Information",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "31",
+  "question_type": "General Information",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "32",
+  "question_type": "General Information",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "33",
+  "question_type": "General Information",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "34",
+  "question_type": "General Information",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "35",
+  "question_type": "General Information",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "36",
+  "question_type": "Logo Problem",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "37",
+  "question_type": "Logo Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "38",
+  "question_type": "Logo Problem",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "39",
+  "question_type": "Logo Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "40",
+  "question_type": "Logo Problem",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "41",
+  "question_type": "Logo Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "42",
+  "question_type": "Logo Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "43",
+  "question_type": "Logo Problem",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "44",
+  "question_type": "Logo Problem",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "45",
+  "question_type": "Logo Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "46",
+  "question_type": "Logo Problem",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "47",
+  "question_type": "Logo Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "48",
+  "question_type": "Logo Problem",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "49",
+  "question_type": "Logo Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "50",
+  "question_type": "Logo Problem",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "51",
+  "question_type": "Visualization",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "52",
+  "question_type": "Visualization",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "53",
+  "question_type": "Visualization",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "54",
+  "question_type": "Visualization",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "55",
+  "question_type": "Visualization",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "56",
+  "question_type": "Visualization",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "57",
+  "question_type": "Visualization",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "58",
+  "question_type": "Visualization",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "59",
+  "question_type": "Visualization",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "60",
+  "question_type": "Visualization",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "61",
+  "question_type": "Visualization",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "62",
+  "question_type": "Visualization",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "63",
+  "question_type": "Visualization",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "64",
+  "question_type": "Visualization",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "65",
+  "question_type": "Visualization",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "66",
+  "question_type": "Visualization",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "67",
+  "question_type": "Visualization",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "68",
+  "question_type": "Visualization",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "69",
+  "question_type": "Visualization",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "70",
+  "question_type": "Visualization",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "71",
+  "question_type": "Visualization",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "72",
+  "question_type": "Visualization",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "73",
+  "question_type": "Visualization",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "74",
+  "question_type": "Visualization",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "75",
+  "question_type": "Visualization",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "76",
+  "question_type": "Visualization",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "77",
+  "question_type": "Visualization",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "78",
+  "question_type": "Visualization",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "79",
+  "question_type": "Visualization",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "80",
+  "question_type": "Visualization",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "81",
+  "question_type": "Picture Recognition",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "82",
+  "question_type": "Picture Recognition",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "83",
+  "question_type": "Picture Recognition",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "84",
+  "question_type": "Picture Recognition",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "85",
+  "question_type": "Picture Recognition",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "86",
+  "question_type": "Picture Recognition",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "87",
+  "question_type": "Picture Recognition",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "88",
+  "question_type": "Picture Recognition",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "89",
+  "question_type": "Picture Recognition",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "90",
+  "question_type": "Picture Recognition",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "91",
+  "question_type": "Picture Recognition",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "92",
+  "question_type": "Picture Recognition",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "93",
+  "question_type": "Picture Recognition",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "94",
+  "question_type": "Picture Recognition",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "95",
+  "question_type": "Picture Recognition",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "96",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "97",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "98",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "99",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "100",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "101",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "102",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "103",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "104",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "105",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "106",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "107",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "108",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "109",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "110",
+  "question_type": "Real-world Spatial",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "111",
+  "question_type": "Readings-text",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "112",
+  "question_type": "Readings-text",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "113",
+  "question_type": "Readings-text",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "114",
+  "question_type": "Readings-text",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "115",
+  "question_type": "Readings-text",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "116",
+  "question_type": "Readings-text",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "117",
+  "question_type": "Readings-text",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "118",
+  "question_type": "Readings-text",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "119",
+  "question_type": "Readings-text",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "120",
+  "question_type": "Readings-text",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "121",
+  "question_type": "Readings-text",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "122",
+  "question_type": "Readings-text",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "123",
+  "question_type": "Readings-text",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "124",
+  "question_type": "Readings-text",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "125",
+  "question_type": "Readings-text",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "126",
+  "question_type": "Readings-VL",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "127",
+  "question_type": "Readings-VL",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "128",
+  "question_type": "Readings-VL",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "129",
+  "question_type": "Readings-VL",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "130",
+  "question_type": "Readings-VL",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "131",
+  "question_type": "Readings-VL",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "132",
+  "question_type": "Readings-VL",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "133",
+  "question_type": "Readings-VL",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "134",
+  "question_type": "Readings-VL",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "135",
+  "question_type": "Readings-VL",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "136",
+  "question_type": "Comic Problem",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "137",
+  "question_type": "Comic Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "138",
+  "question_type": "Comic Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "139",
+  "question_type": "Comic Problem",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "140",
+  "question_type": "Comic Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "141",
+  "question_type": "Comic Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "142",
+  "question_type": "Comic Problem",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "143",
+  "question_type": "Comic Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "144",
+  "question_type": "Comic Problem",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "145",
+  "question_type": "Comic Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "146",
+  "question_type": "Comic Problem",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "147",
+  "question_type": "Comic Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "148",
+  "question_type": "Comic Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "149",
+  "question_type": "Comic Problem",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "150",
+  "question_type": "Comic Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "151",
+  "question_type": "Algebra",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "152",
+  "question_type": "Algebra",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "153",
+  "question_type": "Algebra",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "154",
+  "question_type": "Algebra",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "155",
+  "question_type": "Algebra",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "156",
+  "question_type": "Algebra",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "157",
+  "question_type": "Algebra",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "158",
+  "question_type": "Algebra",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "159",
+  "question_type": "Algebra",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "160",
+  "question_type": "Algebra",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "161",
+  "question_type": "Algebra",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "162",
+  "question_type": "Algebra",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "163",
+  "question_type": "Algebra",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "164",
+  "question_type": "Algebra",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "165",
+  "question_type": "Algebra",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "166",
+  "question_type": "Geometry",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "167",
+  "question_type": "Geometry",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "168",
+  "question_type": "Geometry",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "169",
+  "question_type": "Geometry",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "170",
+  "question_type": "Geometry",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "171",
+  "question_type": "Geometry",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "172",
+  "question_type": "Geometry",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "173",
+  "question_type": "Geometry",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "174",
+  "question_type": "Geometry",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "175",
+  "question_type": "Geometry",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "176",
+  "question_type": "Math Facts",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "177",
+  "question_type": "Math Facts",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "178",
+  "question_type": "Math Facts",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "179",
+  "question_type": "Math Facts",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "180",
+  "question_type": "Math Facts",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "181",
+  "question_type": "Math Facts",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "182",
+  "question_type": "Math Facts",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "183",
+  "question_type": "Math Facts",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "184",
+  "question_type": "Math Facts",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "185",
+  "question_type": "Math Facts",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "186",
+  "question_type": "Applied Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "187",
+  "question_type": "Applied Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "188",
+  "question_type": "Applied Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "189",
+  "question_type": "Applied Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "190",
+  "question_type": "Applied Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "191",
+  "question_type": "Applied Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "192",
+  "question_type": "Applied Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "193",
+  "question_type": "Applied Problem",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "194",
+  "question_type": "Applied Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "195",
+  "question_type": "Applied Problem",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "196",
+  "question_type": "Math Facts",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "197",
+  "question_type": "Math Facts",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "198",
+  "question_type": "Math Facts",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "199",
+  "question_type": "Math Facts",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "200",
+  "question_type": "Math Facts",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "201",
+  "question_type": "Math Facts",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "202",
+  "question_type": "Math Facts",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "203",
+  "question_type": "Math Facts",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "204",
+  "question_type": "Math Facts",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "205",
+  "question_type": "Math Facts",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "206",
+  "question_type": "Math Facts",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "207",
+  "question_type": "Math Facts",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "208",
+  "question_type": "Math Facts",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "209",
+  "question_type": "Math Facts",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "210",
+  "question_type": "Math Facts",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "211",
+  "question_type": "Number Seres",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "212",
+  "question_type": "Number Seres",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "213",
+  "question_type": "Number Seres",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "214",
+  "question_type": "Number Seres",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "215",
+  "question_type": "Number Seres",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "216",
+  "question_type": "Number Seres",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "217",
+  "question_type": "Number Seres",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "218",
+  "question_type": "Number Seres",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "219",
+  "question_type": "Number Seres",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "220",
+  "question_type": "Number Seres",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "221",
+  "question_type": "Number Seres",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "222",
+  "question_type": "Number Seres",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "223",
+  "question_type": "Number Seres",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "224",
+  "question_type": "Number Seres",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "225",
+  "question_type": "Number Seres",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "226",
+  "question_type": "Number Seres",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "227",
+  "question_type": "Number Seres",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "228",
+  "question_type": "Number Seres",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "229",
+  "question_type": "Number Seres",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "230",
+  "question_type": "Number Seres",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "231",
+  "question_type": "Concept Formation",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "232",
+  "question_type": "Concept Formation",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "233",
+  "question_type": "Concept Formation",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "234",
+  "question_type": "Concept Formation",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "235",
+  "question_type": "Concept Formation",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "236",
+  "question_type": "Concept Formation",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "237",
+  "question_type": "Concept Formation",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "238",
+  "question_type": "Concept Formation",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "239",
+  "question_type": "Concept Formation",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "240",
+  "question_type": "Concept Formation",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "241",
+  "question_type": "Concept Formation",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "242",
+  "question_type": "Concept Formation",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "243",
+  "question_type": "Concept Formation",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "244",
+  "question_type": "Concept Formation",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "245",
+  "question_type": "Concept Formation",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "246",
+  "question_type": "Concept Formation",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "247",
+  "question_type": "Concept Formation",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "248",
+  "question_type": "Concept Formation",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "249",
+  "question_type": "Concept Formation",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "250",
+  "question_type": "Concept Formation",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "251",
+  "question_type": "Raven's Matrices",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "252",
+  "question_type": "Raven's Matrices",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "253",
+  "question_type": "Raven's Matrices",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "254",
+  "question_type": "Raven's Matrices",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "255",
+  "question_type": "Raven's Matrices",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "256",
+  "question_type": "Raven's Matrices",
+  "ground_truth": "F"
+ },
+ {
+  "question_id": "257",
+  "question_type": "Raven's Matrices",
+  "ground_truth": "F"
+ },
+ {
+  "question_id": "258",
+  "question_type": "Raven's Matrices",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "259",
+  "question_type": "Raven's Matrices",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "260",
+  "question_type": "Raven's Matrices",
+  "ground_truth": "F"
+ },
+ {
+  "question_id": "261",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "262",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "263",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "264",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "265",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "266",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "267",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "268",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "269",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "270",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "271",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "272",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "273",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "274",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "275",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "276",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "277",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "278",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "279",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "280",
+  "question_type": "Real-world Reasoning",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "281",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "282",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "283",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "284",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "285",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "286",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "287",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "E"
+ },
+ {
+  "question_id": "288",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "289",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "290",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "291",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "292",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "293",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "C"
+ },
+ {
+  "question_id": "294",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "295",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "296",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "297",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "A"
+ },
+ {
+  "question_id": "298",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "B"
+ },
+ {
+  "question_id": "299",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "D"
+ },
+ {
+  "question_id": "300",
+  "question_type": "Syllogism Problem",
+  "ground_truth": "A"
+ }
+]
