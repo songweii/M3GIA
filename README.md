@@ -50,6 +50,7 @@ To evaluate a model on our M3GIA, there are the following steps:
 ## ✉ Contact
 - Wei Song: songwei@westlake.edu.cn
 - Yadong Li: adonlee072348@gmail.com
+- Kaicheng Yu: kyu@westlake.edu.cn
 
 ## ✍ Citation
 
