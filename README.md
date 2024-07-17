@@ -40,7 +40,7 @@ If you want to use LLM for answer extraction:
 python main_parse_and_eval.py --model_name_list cogvlm2-19B --language_list chinese english spanish french portuguese korean --openai-api-key *** --openai-api-base ***
 ```
 
-4. **GIA Score Calculation**:
+4. **Calculate GIA Score**:
 To calculate the GIA (General Intelligence Ability) score after obtaining the correct number of answers and total correct answers for the model in 18 types of questions, follow these steps:
 
 First, enter the number of correct answers for each question type into the corresponding language's spreadsheet, `MLLMs_acc_<language>_score.xlsx`, located in the `\MLLMs_score` folder. Then, run the calculation program for the corresponding language, `GIA_<language>.R`.
