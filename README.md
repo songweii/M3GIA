@@ -11,23 +11,24 @@ We collected a significant corpus of data from human participants, revealing tha
 To evaluate a model on our M3GIA, there are the following steps:
 1. **Prepare Datasets**: Download M3GIA [**🤗 Dataset**](https://huggingface.co/datasets/Songweii/M3GIA/) and choose the evalution file;
 2. **Inference**: Choose the model and the evalution file, you can refer to the following command to get the model predictions of the questions. In this demo, we take CogVLM-2 as an example:
-```Shell
-python inference_only.py --question-file ./data/huggingface/en_final.parquet --answers-file ./data/answers --language english --model-name cogvlm2-19B --model-path ./weight/cogvlm/cogvlm2-llama3-chinese-chat-19B
-```
-The arguments are as follows:
-  - `question-file`: The file you download from [**🤗 Dataset**](https://huggingface.co/datasets/Songweii/M3GIA/).
-  - `answers-file`: The output file of the model predictions.
-  - `model-name`: The name of the model you evaluate.
-  - `model-path`: The path to the model's weight if you want to evaluate an open source model.
-  - `language`: The language chosen from english, chinese, french, spanish, portuguese and korean.
+   ```Shell
+   python inference_only.py --question-file ./data/huggingface/en_final.parquet --answers-file ./data/answers --language english --model-name cogvlm2-19B --model-path ./weight/cogvlm/cogvlm2-llama3-chinese-chat-19B
+   ```
+   The arguments are as follows:
+   - `question-file`: The file you download from [**🤗 Dataset**](https://huggingface.co/datasets/Songweii/M3GIA/).
+   - `answers-file`: The output file of the model predictions.
+   - `model-name`: The name of the model you evaluate.
+   - `model-path`: The path to the model's weight if you want to evaluate an open source model.
+   - `language`: The language chosen from english, chinese, french, spanish, portuguese and korean.
+   
+   If you want to evaluate a closed-source model:
+   ```Shell
+   python inference_only.py --question-file ./data/huggingface/en_final.parquet --answers-file ./data/answers --language english --model-name gpt-4v --api-key *** --api-base ***
+   ```
 
-If you want to evaluate a closed-source model:
-```Shell
-python inference_only.py --question-file ./data/huggingface/en_final.parquet --answers-file ./data/answers --language english --model-name gpt-4v --api-key *** --api-base ***
-```
-The arguments are as follows:
-  - `api-key`: The API key of the closed-source model evaluated.
-  - `api-base`: The API base of the closed-source model evaluated.
+   The arguments are as follows:
+   - `api-key`: The API key of the closed-source model evaluated.
+   - `api-base`: The API base of the closed-source model evaluated.
 
 3. **Evaluation**:
    After inference all the questons in 6 languages, you can run the following command to get the final results (Please check the folder: `data/eval_result`):
@@ -40,12 +41,10 @@ The arguments are as follows:
    python main_parse_and_eval.py --model_name_list cogvlm2-19B --language_list chinese english spanish french portuguese korean --openai-api-key *** --openai-api-base ***
    ```
 
-## Calculate GIA Score
-To calculate the GIA (General Intelligence Ability) score after obtaining the correct number of answers and total correct answers for the model in 18 types of questions, follow these steps:
-
-First, enter the number of correct answers for each question type into the corresponding language's spreadsheet, `MLLMs_acc_<language>_score.xlsx`, located in the `\MLLMs_score` folder. Then, run the calculation program for the corresponding language, `GIA_<language>.R`.
-
-The Excel files in the `\MLLMs_score` folder provide template examples. Please enter your own test result data in the appropriate place. Running the calculation program requires the R language (Refer to [RStudio](https://posit.co/products/open-source/rstudio/)). The `.RDATA` files contain the CFA models based on currently collected human data, which may be updated as the volume of human data increases.
+4. **Calculate GIA Score**: To calculate the GIA (General Intelligence Ability) score after obtaining the correct number of answers and total correct answers for the model in 18 types of questions, follow these steps:
+   1. enter the number of correct answers for each question type into the corresponding language's spreadsheet, `MLLMs_acc_<language>_score.xlsx`, located in the `\MLLMs_score` folder.
+   2. run the calculation program for the corresponding language, `GIA_<language>.R`.
+   The Excel files in the `\MLLMs_score` folder provide template examples. Please enter your own test result data in the appropriate place. Running the calculation program requires the R language (Refer to [RStudio](https://posit.co/products/open-source/rstudio/)). The `.RDATA` files contain the CFA models based on currently collected human data, which may be updated as the volume of human data increases.
 
 ## ✉ Contact
 - Wei Song: songwei@westlake.edu.cn
