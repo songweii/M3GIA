@@ -39,3 +39,19 @@ If you want to use LLM for answer extraction:
 ```bash
 python main_parse_and_eval.py --model_name_list cogvlm2-19B --language_list chinese english spanish french portuguese korean --openai-api-key *** --openai-api-base ***
 ```
+
+## ✉ Contact
+- Wei Song: songwei@westlake.edu.cn,
+- Yadong Li: adonlee072348@gmail.com
+
+## ✍ Citation
+
+**BibTeX:**
+```bibtex
+@article{song2024m3gia,
+  title={M3GIA: A Cognition Inspired Multilingual and Multimodal General Intelligence Ability Benchmark},
+  author={Song, Wei and Li, Yadong and Xu, Jianhua and Wu, Guowei and Ming, Lingfeng and Yi, Kexin and Luo, Weihua and Li, Houyi and Du, Yi and Guo, Fangda and others},
+  journal={arXiv preprint arXiv:2406.05343},
+  year={2024}
+}
+```
