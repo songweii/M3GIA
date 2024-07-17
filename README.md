@@ -41,7 +41,7 @@ python main_parse_and_eval.py --model_name_list cogvlm2-19B --language_list chin
 ```
 
 ## ✉ Contact
-- Wei Song: songwei@westlake.edu.cn,
+- Wei Song: songwei@westlake.edu.cn
 - Yadong Li: adonlee072348@gmail.com
 
 ## ✍ Citation
