@@ -44,6 +44,7 @@ To evaluate a model on our M3GIA, there are the following steps:
 4. **Calculate GIA Score**: To calculate the GIA (General Intelligence Ability) score after obtaining the correct number of answers and total correct answers for the model in 18 types of questions, follow these steps:
    1. enter the number of correct answers for each question type into the corresponding language's spreadsheet, `MLLMs_acc_<language>_score.xlsx`, located in the `\MLLMs_score` folder.
    2. run the calculation program for the corresponding language, `GIA_<language>.R`.
+   
    The Excel files in the `\MLLMs_score` folder provide template examples. Please enter your own test result data in the appropriate place. Running the calculation program requires the R language (Refer to [RStudio](https://posit.co/products/open-source/rstudio/)). The `.RDATA` files contain the CFA models based on currently collected human data, which may be updated as the volume of human data increases.
 
 ## ✉ Contact
