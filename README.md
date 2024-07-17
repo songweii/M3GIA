@@ -1,6 +1,6 @@
 # M3GIA: A Cognition Inspired Multilingual and Multimodal General Intelligence Ability Benchmark
 
-[**🌐 Homepage**] | [**🤗 Dataset**](https://huggingface.co/datasets/Songweii/M3GIA/) | [**📖 arXiv**](https://arxiv.org/abs/2406.05343) | [**GitHub**]
+[**🌐 Homepage**] | [**🤗 Dataset**](https://huggingface.co/datasets/Songweii/M3GIA/) | [**📖 arXiv**](https://arxiv.org/abs/2406.05343) 
 
 [**Abstract**]
 As recent multi-modality large language models (MLLMs) have shown formidable proficiency on various complex tasks, there has been increasing attention on debating whether these models could eventually mirror human intelligence.
